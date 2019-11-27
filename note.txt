@@ -1,0 +1,3 @@
+set the following values in php.ini
+1) post_max_size=15M
+2) upload_max_size=15M
